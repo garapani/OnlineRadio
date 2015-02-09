@@ -1,0 +1,2 @@
+MainPackage=D:\VENKAT\Projects\OnlineRadio\OnlineRadio\bin\x86\Release\OnlineRadio_1.0.0.1_Bundle\OnlineRadio_1.0.0.1_x86.appx
+SymbolPackage=D:\VENKAT\Projects\OnlineRadio\OnlineRadio\AppPackages\OnlineRadio_1.0.0.1_Test\OnlineRadio_1.0.0.1_x86.appxsym

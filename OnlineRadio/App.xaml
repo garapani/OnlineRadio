@@ -1,0 +1,40 @@
+<Application x:Class="OnlineRadio.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:common="using:OnlineRadio.Common" 
+             xmlns:converters="using:OnlineRadio.Converters" xmlns:local="using:OnlineRadio">
+    <Application.Resources>
+        <vm:ViewModelLocator x:Key="Locator" xmlns:vm="using:OnlineRadio.ViewModel" />
+        <SolidColorBrush x:Key="ButtonPointerOverBackgroundThemeBrush" Color="Transparent" />
+        <SolidColorBrush x:Key="ButtonPointerOverForegroundThemeBrush" Color="Transparent" />
+        <SolidColorBrush x:Key="ButtonPressedBackgroundThemeBrush" Color="Transparent" />
+        <SolidColorBrush x:Key="ButtonPressedForegroundThemeBrush" Color="Transparent" />
+        <converters:StringToBooleanConverter x:Name="StringToBooleanConverter"/>
+        <converters:BooleanToVisibilityConverter x:Name="BooleanToVisibilityConverter"/>
+        <converters:BooleanToCollapseConverter x:Name="BooleanToCollapseConverter"/>
+        <converters:NullToVisibilityConverter x:Name="NullToVisibilityConverter"/>
+        <converters:ObjectToVisibilityConverter x:Name="ObjectToVisibilityConverter"/>
+        <converters:ObjectToBooleanConverter x:Name="ObjectToBooleanConverter"/>
+        
+        <SolidColorBrush x:Name="listviewItemColor" Color="SteelBlue" Opacity="0.1"/>
+        <Style TargetType="ListViewItem" x:Name="listViewStyle">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Background" Value="{StaticResource listviewItemColor}"/>
+            <Setter Property="MinHeight" Value="50"/>
+            <Setter Property="MaxWidth" Value="250"/>
+            <Setter Property="MinWidth" Value="250"/>
+        </Style>
+        
+        <Style  x:Key="RootFrameStyle" TargetType="Frame">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Frame">
+                        <Grid>                            
+                            <MediaElement x:Name="mediaPlayer" AudioCategory="BackgroundCapableMedia" AutoPlay="True" Visibility="Collapsed" />
+                            <ContentPresenter />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Application.Resources>
+</Application>

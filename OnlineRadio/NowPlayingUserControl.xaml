@@ -1,0 +1,69 @@
+﻿<UserControl
+	x:Name="nowplaying"
+	x:Class="OnlineRadio.NowPlayingUserControl"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:local="using:OnlineRadio"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:Triggers="using:WinRT.Triggers"
+	xmlns:winRTControl="using:WinRTXamlToolkit.Controls"
+	xmlns:converters="using:OnlineRadio.Converters"
+	mc:Ignorable="d"
+	d:DesignHeight="300"
+	d:DesignWidth="400">
+	
+	<!--<UserControl.Resources>
+		<converters:StringToBooleanConverter x:Name="StringToBooleanConverter"/>
+		<converters:BooleanToVisibilityConverter x:Name="BooleanToVisibilityConverter"/>
+		<converters:BooleanToCollapseConverter x:Name="BooleanToCollapseConverter"/>
+		<converters:NullToVisibilityConverter x:Name="NullToVisibilityConverter"/>
+
+		<SolidColorBrush x:Name="listviewItemColor" Color="SteelBlue" Opacity="0.1"/>
+		<Style TargetType="ListViewItem" x:Name="listViewStyle">
+			<Setter Property="VerticalAlignment" Value="Center"/>
+			<Setter Property="VerticalContentAlignment" Value="Center"/>
+			<Setter Property="HorizontalAlignment" Value="Left"/>
+			<Setter Property="Background" Value="{StaticResource listviewItemColor}"/>
+			<Setter Property="MinHeight" Value="50"/>
+			<Setter Property="MaxWidth" Value="250"/>
+			<Setter Property="MinWidth" Value="250"/>
+		</Style>
+	</UserControl.Resources>-->
+
+	<Grid Margin="5,0,10,5" Background="{StaticResource listviewItemColor}">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition  Width="*" MinWidth="200"/>
+			<ColumnDefinition Width="Auto" MinWidth="100" MaxWidth="200"/>
+			<ColumnDefinition Width="Auto" MinWidth="100"/>
+		</Grid.ColumnDefinitions>
+		<StackPanel Grid.Column="0">
+            <TextBlock Text="Now Playing:" Margin="5" Foreground="SteelBlue" FontWeight="Bold" FontSize="22" />
+            <TextBlock Text="{Binding SelectedChannel.title}" Margin="5,2,2,2" Foreground="SteelBlue" FontWeight="SemiBold"  FontSize="20"/>
+            <TextBlock Text="{Binding SelectedChannel.chdescription}" Margin="5,2,2,2" Foreground="SteelBlue" FontSize="18"/>
+			<TextBlock x:Name="songDetails" Foreground="SteelBlue" FontSize="18"/>
+			<TextBlock x:Name="bufferProgress" Margin="5,2,2,2" Text="" Foreground="SteelBlue" FontSize="18"/>
+			<ProgressBar x:Name="progressBar" Visibility="Collapsed" IsIndeterminate="True" Foreground="SteelBlue" FontSize="30"/>
+		</StackPanel>
+
+		<winRTControl:ImageButton x:Name="stopState" Grid.Column="1" Background="Transparent" VerticalAlignment="Center" HorizontalAlignment="Center" Stretch="UniformToFill" Width="100" Height="100" GenerateMissingImages="True" NormalStateImageSource="Assets/stop-icon.png" IsEnabled="False"/>
+
+		<winRTControl:ImageButton x:Name="playButtonImage" Grid.Column="1" Background="Transparent" VerticalAlignment="Center" HorizontalAlignment="Center" Stretch="UniformToFill" Width="100" Height="100" GenerateMissingImages="True" NormalStateImageSource="Assets/Pause-icon.png" Click="pauseButton_Click" IsEnabled="{Binding SelectedChannel, Converter={StaticResource ObjectToVisibilityConverter}}" Visibility="Collapsed"/>
+
+		<winRTControl:ImageButton x:Name="pauseButtonImage" Grid.Column="1" Background="Transparent" VerticalAlignment="Center" HorizontalAlignment="Center" Stretch="UniformToFill" Width="100" Height="100" GenerateMissingImages="True" NormalStateImageSource="Assets/Play-icon.png" Click="playButton_Click" Visibility="Collapsed"/>
+        <Grid x:Name="favState" Grid.Column="2" Margin="5,0,10,5" Visibility="{Binding SelectedChannel, Converter={StaticResource ObjectToVisibilityConverter}}" HorizontalAlignment="Right" VerticalAlignment="Top">
+			<Grid.RowDefinitions>
+				<RowDefinition Height="Auto"/>
+				<RowDefinition Height="Auto"/>
+			</Grid.RowDefinitions>
+            <winRTControl:ImageButton x:Name="favButtonImage" Background="Transparent" HorizontalAlignment="Center" Stretch="UniformToFill" Width="50" Height="50" GenerateMissingImages="True" NormalStateImageSource="Assets/heart-remove.png" Command="{Binding RemoveFromFavStationsCommand}" Visibility="{Binding SelectedChannel.IsFav, Converter={StaticResource BooleanToVisibilityConverter}}" IsEnabled="{Binding SelectedChannel, Converter={StaticResource ObjectToBooleanConverter}}"/>
+		</Grid>
+        <Grid x:Name="noFavState" Grid.Column="2" Margin="5,0,10,5" Visibility="{Binding SelectedChannel, Converter={StaticResource ObjectToVisibilityConverter}}" HorizontalAlignment="Right" VerticalAlignment="Top" >
+			<Grid.RowDefinitions>
+				<RowDefinition Height="Auto"/>
+				<RowDefinition Height="Auto"/>
+			</Grid.RowDefinitions>
+            <winRTControl:ImageButton x:Name="noFavButtonImage" Background="Transparent" HorizontalAlignment="Center" Stretch="UniformToFill" Width="50" Height="50" GenerateMissingImages="True" NormalStateImageSource="Assets/heart-add.png" Command="{Binding AddToFavStationsCommand}" Visibility="{Binding SelectedChannel.IsFav, Converter={StaticResource BooleanToCollapseConverter}}" IsEnabled="{Binding SelectedChannel.chlink, Converter={StaticResource StringToBooleanConverter}}"/>
+		</Grid>
+	</Grid>
+</UserControl>

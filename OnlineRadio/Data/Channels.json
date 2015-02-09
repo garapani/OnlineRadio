@@ -1,0 +1,2228 @@
+﻿{
+    "rss": {
+        "-version": "2.0",
+        "channel": {
+            "title": "Online Radio For Windows 8",
+            "link": "",
+            "description": "Online Radio",
+            "item": [
+                {
+                    "title": "Desi Music Mix!",
+                    "chlink": "http://216.240.130.150:8012",
+                    "chdescription": "24/7 All Time Hits-128kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Bombay Beats",
+                    "chlink": "http://205.164.62.22:8017",
+                    "chdescription": "24/7 Latest Songs-128kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Desi Non Stop Hits",
+                    "chlink": "http://s10.voscast.com:7528",
+                    "chdescription": "Desi Radio Exclusive Station-96kbps",
+                    "chcat": "New",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Sada Bahar Music",
+                    "chlink": "http://sadabaharmusicradio.serverhostingcenter.com:8512",
+                    "chdescription": "NonStop Evergreen Melodies-64kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Bollywood Evergreen Hits",
+                    "chlink": "http://50.7.77.114:8296",
+                    "chdescription": "Hindi Evergreen Hits-32kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Non Stop Hindi Radio",
+                    "chlink": "http://198.178.123.14:8216/stream",
+                    "chdescription": "24/7 Hindi Music Hits-64kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Naach Radio",
+                    "chlink": "http://in1.atl.icy.abacast.com/neosa-live-128",                    
+                    "chdescription": "Turn it up and Naach-128kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Hungama Bollywood Hits",
+                    "chlink": "http://123.176.41.8:8056",
+                    "chdescription": "24/7 Hit Songs-64kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Teentaal 24/7",
+                    "chlink": "http://www.radioteentaal.com:8000",
+                    "chdescription": "All Time Hits-128kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dubai City FM 101.6",
+                    "chlink": "http://208.92.53.88:80/ARNCITYAACCMP3",                    
+                    "chdescription": "UAE's No.1 Bollywood Station-128kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "HSL Radio",
+                    "chlink": "http://50.7.70.66:8485",
+                    "chdescription": "Hit Songs Lagataar-64kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Polskastacja  Bollywood",
+                    "chlink": "http://ns353233.ovh.net:4600",
+                    "chdescription": "Poland Bollywood Radio-128kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dil Se Re",
+                    "chlink": "http://96.30.32.42:8070/stream2",
+                    "chdescription": "24/7 Melodious Songs-64kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Desi KLOK 1170 AM",
+                    "chlink": "http://2353.live.streamtheworld.com:3690/KLOKAM_SC",
+                    "chdescription": "Bay Area 24/7-48kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Zindagi 1550AM",
+                    "chlink": "http://76.164.217.100:7481",
+                    "chdescription": "Live from San Francisco-128kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio India 1600 AM",
+                    "chlink": "http://208.74.156.210:8000/radioindia1",
+                    "chdescription": "South Asian Hit Radio-56kbps",
+                    "chcat": "New",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Taal Radio",
+                    "chlink": "http://192.187.114.138:9998",
+                    "chdescription": "Bollywood Hindi Music-128kbps",
+                    "chcat": "New",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "V V Radio",
+                    "chlink": "http://37.187.79.56:2802/stream",
+                    "chdescription": "Evergreen Hits Multi Language-48kbps",
+                    "chcat": "Hot",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Apna eRadio Classics",
+                    "chlink": "http://www.apnaeradio.com:8300",
+                    "chdescription": "Classics and Oldies-96kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Apna eRadio Ghazal Channel",
+                    "chlink": "http://apnaeradio.com:8400",
+                    "chdescription": "Live Ghazals-96kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Apna eRadio Indian Channel",
+                    "chlink": "http://apnaeradio.com:8100",
+                    "chdescription": "Film, Classics, Bhangra, ReMix-96kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Asian Mix 24/7",
+                    "chlink": "http://asianmix.com:8060",
+                    "chdescription": "Best of Bhangra Bollywood-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Bollywood and Beyond",
+                    "chlink": "http://96.31.83.86:8084",
+                    "chdescription": "Non Stop Music-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Bollywood and Bhangra",
+                    "chlink": "http://listen.radionomy.com/bollywood-n-bhangra-usa",
+                    "chdescription": "Live from USA-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Bollywood Latest Hits",
+                    "chlink": "http://listen.radionomy.com/tamburahindi",
+                    "chdescription": "Hindi Songs-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Chann Pardesi Hindi",
+                    "chlink": "http://hindi.mehramedia.com:8206/live.m3u",
+                    "chdescription": "Chicago's First Hindi Radio-32kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Deccan Radio",
+                    "chlink": "http://deccanradio.listenon.in:8300/",
+                    "chdescription": "Multi Langauge Radio-48kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Desi Beats",
+                    "chlink": "http://sc1.mainstreamnetwork.com:9106",
+                    "chdescription": "24/7 Latest Songs-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Desi Radio",
+                    "chlink": "http://204.45.41.148:80",
+                    "chdescription": "Indian and Pakistani-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dhak Dhak Radio",
+                    "chlink": "http://209.105.250.69:8404",
+                    "chdescription": "Hindi and Urdu-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "DJ Gaurav Radio",
+                    "chlink": "http://radio.dj-gaurav.com:8035",
+                    "chdescription": "Bollywood songs-96kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dubai 92",
+                    "chlink": "http://4083.live.streamtheworld.com:80/DUBAI_92AAC_SC",                    
+                    "chdescription": "Dubai's Best Mix-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dubai 105.4 Radio Spice",
+                    "chlink": "http://ice5.securenetsystems.net:80/1054",
+                    "chdescription": "Fulltoo Twisted-24kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dubai Eye 103.8",
+                    "chlink": "http://4013.live.streamtheworld.com:80/DUBAI_EYEAAC_SC",                    
+                    "chdescription": "News Talk Sport Radio-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dubai Josh FM 97.8",
+                    "chlink": "http://4013.live.streamtheworld.com/JOSHFMAAC",
+                    "chdescription": "Contemporary Hit Radio-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dubai Suno 1024 FM",
+                    "chlink": "http://192.240.97.69:8941",
+                    "chdescription": "Fresh New Hindi Urdu-96kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dubai Virgin Radio 104.4",
+                    "chlink": "http://5253.live.streamtheworld.com:80/VIRGINRADIO_DUBAIAAC_SC",
+                    "chdescription": "Dubai Radio-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Dushh FM",
+                    "chlink": "http://wasp.rockhost.com:8128",
+                    "chdescription": "Bollywood Radio from Malaysia-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "FunAsia 104.9 FM",
+                    "chlink": "http://205.234.238.42:5050",
+                    "chdescription": "Latest Hindi Songs-39kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Hindi Koyal Radio",
+                    "chlink": "http://live.hindikoyalradio.com:8092",
+                    "chdescription": "Hindi Music Radio-32kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Hits of Bollywood",
+                    "chlink": "http://50.7.77.115:8174",
+                    "chdescription": "Hindi Non Stop Music Radio-32kbps",
+                    "chcat": "New",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Hungama 90s Super Hits",
+                    "chlink": "http://123.176.41.8:8556",
+                    "chdescription": "Hindi 90s Super Hit Songs-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Hungama Bolly Instrumental",
+                    "chlink": "http://123.176.41.8:8532",
+                    "chdescription": "Bollywood Instrumental Music-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Hungama Bollywood Classics",
+                    "chlink": "http://123.176.41.8:8132",
+                    "chdescription": "Bollywood Classic Hits-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Hungama Romantic Hits",
+                    "chlink": "http://123.176.41.8:8032",
+                    "chdescription": "Hindi Romantic Songs-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Intamixx Music Company",
+                    "chlink": "http://intamixx.no-ip.com:8333",
+                    "chdescription": "Bollywood Bhangra DJ from UK-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Masala Beats",
+                    "chlink": "http://198.154.106.101:8654",
+                    "chdescription": "Live from Toronto-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Mast Radio",
+                    "chlink": "http://stream.mastradio.net:8000",
+                    "chdescription": "Non Stop Music-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Madhur Sangeet",
+                    "chlink": "http://ct5.fast-serv.com:9620",
+                    "chdescription": "Old Classics-24kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Mera Sangeet",
+                    "chlink": "http://4333.live.streamtheworld.com:80/MERASANGEETAACCMP3",
+                    "chdescription": "Non Stop Hindi Songs-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Mohd Rafi Radio",
+                    "chlink": "http://radio.mohdrafi.com/rafi.mp3",
+                    "chdescription": "The Legend of Legends-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Afsana Online",
+                    "chlink": "http://174.36.206.197:8198",
+                    "chdescription": "NonStop Internet Radio-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Akash",
+                    "chlink": "http://4903.live.streamtheworld.com:80/RADIOAKASHACC_SC",
+                    "chdescription": "NonStop Entertainment Vancouver-48kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Chilli",
+                    "chlink": "http://50.7.70.58:8777",
+                    "chdescription": "Bollywood songs-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio City Freedom",
+                    "chlink": "http://prclive1.listenon.in:9932",
+                    "chdescription": "Freedom Radio-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio City Fun Ka Antenna",
+                    "chlink": "http://prclive1.listenon.in:9940",
+                    "chdescription": "Freedom Radio-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio City Hindi",
+                    "chlink": "http://prclive1.listenon.in:9936",
+                    "chdescription": "Hindi Web Radio-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio City IndiPop",
+                    "chlink": "http://prclive3.listenon.in:9968",
+                    "chdescription": "IndiPop Radio-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Dil",
+                    "chlink": "http://ic1.mainstreamnetwork.com/radiodil2",
+                    "chdescription": "DilSe DilTak-32kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Dhoom",
+                    "chlink": "http://radiodhoom.serverroom.us:6646",
+                    "chdescription": "Live from Australia-80kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Gabbar",
+                    "chlink": "http://viadj.viastreaming.net:7090",
+                    "chdescription": "Bollywood songs-96kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Kushi Australia",
+                    "chlink": "http://stereo.wavestreamer.com:9865",
+                    "chdescription": "Live from Australia-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Kushi India",
+                    "chlink": "http://fire.wavestreamer.com:5422",
+                    "chdescription": "Live from India-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Kushi UK",
+                    "chlink": "http://majestic.wavestreamer.com:8654",
+                    "chdescription": "Live from UK-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Kushi USA EST",
+                    "chlink": "http://stereo.wavestreamer.com:1836",
+                    "chdescription": "Live from US Eastern-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Kushi USA CST",
+                    "chlink": "http://stereo.wavestreamer.com:6608",
+                    "chdescription": "Live from US Central-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Radio Kushi USA PST",
+                    "chlink": "http://stereo.wavestreamer.com:7891",
+                    "chdescription": "Live from US Pacific-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Revolution Plus",
+                    "chlink": "http://46.32.226.251:8006",
+                    "chdescription": "Live from UK Manchester-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Sangeet Radio 95.1 FM",
+                    "chlink": "http://ice8.securenetsystems.net/SGTRADIO",
+                    "chdescription": "Desi Hit Music from Houson-44kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Santa Banta Radio",
+                    "chlink": "http://santabanta.serverroom.us:8598",
+                    "chdescription": "Live from Australia-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Suburbs of Goa",
+                    "chlink": "http://xstream1.somafm.com:8850",
+                    "chdescription": "Asian World Beats-128kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Suvidha Radio",
+                    "chlink": "http://50.7.129.122:8265/live",
+                    "chdescription": "Hindi Radio-96kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Tune India Radio",
+                    "chlink": "http://108.163.197.114:8103",
+                    "chdescription": "24x7 Indian Music from Syndney-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "UAE Radio 4 104.8 FM",
+                    "chlink": "http://4083.live.streamtheworld.com/CHANNEL4FM",
+                    "chdescription": "UAE's Bollywood Entertainment-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Udaan Radio",
+                    "chlink": "http://50.7.77.178:8347/stream",
+                    "chdescription": "Radio for Visually Challenged-64kbps",
+                    "category": "Hindi"
+                },
+                {
+                    "title": "Desi World Radio",
+                    "chlink": "http://ns2.desiworldradio.com:7078/stream.m3u",
+                    "chdescription": "24/7 Music from USA-64kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Punjabi Radio USA",
+                    "chlink": "http://s2.voscast.com:7016",
+                    "chdescription": "24/7 Premier Punjabi Broadcast-96kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Non Stop Punjabi Radio",
+                    "chlink": "http://s8.voscast.com:7020",
+                    "chdescription": "24x7 Punjabi Music Station-64kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Dhol Radio",
+                    "chlink": "http://gill.sukhpal.net:8000",
+                    "chdescription": "24/7 Punjabi Songs-32kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Dil Apna Punjabi Radio",
+                    "chlink": "http://s7.voscast.com:7028",
+                    "chdescription": "Eknoor Media Tornonto-64kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Dil Apna Punjabi Radio 2",
+                    "chlink": "http://184.107.202.178:8242",
+                    "chdescription": "Eknoor Media Tornonto-24kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Radio City 24",
+                    "chlink": "http://ns1.manpreetmoga.in:6100",
+                    "chdescription": "24/7 Punjabi Radio-32kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Radio Sach Di Goonj",
+                    "chlink": "http://s8.voscast.com:8526",
+                    "chdescription": "24/7 Punjabi Radio-32kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Pure Punjabi Radio",
+                    "chlink": "http://176.9.39.205:8000",
+                    "chdescription": "Pure Punajbi Radio 24/7-32kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Panjab Radio London",
+                    "chlink": "http://s1.voscast.com:7918",
+                    "chdescription": "Live from UK 24/7-56kbps",
+                    "chcat": "Hot",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Apna FM",
+                    "chlink": "http://176.9.133.35:9999",
+                    "chdescription": "Live 24/7 Punjabi Radio-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Apna Punjab",
+                    "chlink": "http://s8.voscast.com:7098",
+                    "chdescription": "24/7 San Francisco Radio-96kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Apna Radio",
+                    "chlink": "http://50.7.98.106:8559",
+                    "chdescription": "Punjabi from NewYork-128kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Apna Tashan",
+                    "chlink": "http://95.154.202.117:18464/listen.pls",
+                    "chdescription": "24/7 Punjabi Radio-96kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Apna Virsa Radio",
+                    "chlink": "http://apnavirsaradio.serverroom.net:6752",
+                    "chdescription": "Windsor Detroid First 96kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Chann Pardesi Punjabi",
+                    "chlink": "http://ice.mehramedia.com:8763/live.m3u",
+                    "chdescription": "24/7 Punjabi Radio from Chicago-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Club Bollywood",
+                    "chlink": "http://pub6.radiotunes.com/radiotunes_clubbollywood_aacplus",
+                    "chdescription": "Radiotunes Hindi Club Mix-64kbps",
+                    "category": "Punjabi"
+                },                
+                {
+                    "title": "Des Hov Punjab Radio",
+                    "chlink": "http://192.240.102.130:7605/stream",
+                    "chdescription": "24/7 Punjabi from Paris-64kbps",
+                    "chcat": "New",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Desi Radio 1602 AM",
+                    "chlink": "http://tx.sharp-stream.com/icecast.php?i=desiradio.mp3",
+                    "chdescription": "24/7 Punjabi from UK-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Ekam Radio",
+                    "chlink": "http://192.184.9.81:8522/stream",
+                    "chdescription": "24/7 Punjabi Music Station-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "EkNoor Punjabi Radio",
+                    "chlink": "http://s7.voscast.com:7294",
+                    "chdescription": "Sri Guru Granth Sahib-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "PunjabiNA-Goldcoast Punjabi Radio",
+                    "chlink": "http://50.7.96.138:8138",
+                    "chdescription": "Live from Australia-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Harman Radio",
+                    "chlink": "http://harmanradio.net:8000/main_48.mp3",
+                    "chdescription": "24/7 Live from Australia-48kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Naujawani Radio",
+                    "chlink": "http://iradio.naujawani.com:8000/naujawani",
+                    "chdescription": "Punjabi News Views Entertainement-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Parwaaz Radio",
+                    "chlink": "http://198.154.106.116:8990",
+                    "chdescription": "24/7 Music on Demand-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Punjabi Tehelka",
+                    "chlink": "http://mehramedia.com:8011",
+                    "chdescription": "Punjabi News Worldwide-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Punjabi World Radio",
+                    "chlink": "http://s4.voscast.com:7406",
+                    "chdescription": "24/7 Punjabi Radio-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Qaumi Awaaz Radio",
+                    "chlink": "http://s7.voscast.com:7458",
+                    "chdescription": "Live from Australia-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Raabta Radio Australia",
+                    "chlink": "http://192.184.9.79:8360",
+                    "chdescription": "Live From Australia-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Radio Dhamaal 24/7",
+                    "chlink": "http://s7.voscast.com:7050",
+                    "chdescription": "Hindi and 96kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Radio Jugni",
+                    "chlink": "http://radiojugni.com:9300",
+                    "chdescription": "24/7 Punjabi Songs-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Red FM 106.7 Calgary",
+                    "chlink": "http://provisioning.streamtheworld.com/pls/CKYRFMAAC.pls",
+                    "chdescription": "Live from Calgary-128kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Red FM 93.1 Vancouver",
+                    "chlink": "http://208.80.54.49:443/CKYEFMAACCMP3",
+                    "chdescription": "Music Talk News from Canada-25kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Radio Sanjh",
+                    "chlink": "http://ice.mehramedia.com:8763/songs",
+                    "chdescription": "Punjabi Songs-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Radio Spice 88 NZ",
+                    "chlink": "http://202.37.78.176:8000/radiospicetuneinaudio.mp3.m3u",
+                    "chdescription": "New Zealand da #1 Punjabi FM-56kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Radio SurSangam",
+                    "chlink": "http://184.70.223.91:8000/stream",
+                    "chdescription": " Calgary 24/7 South Asian-128kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SabRang Radio 24/7",
+                    "chlink": "http://50.7.96.210:8289/stream",
+                    "chdescription": "Hindi and 128kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Sada Radio Australia",
+                    "chlink": "http://s3.voscast.com:8374",
+                    "chdescription": "24/7 Live from Melbourne-96kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Sher E Punjab 1550 AM",
+                    "chlink": "http://9303.live.streamtheworld.com/KRPIAMAAC",
+                    "chdescription": "Live from Canada-44kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Spice 102.1 FM",
+                    "chlink": "http://bluedog.wavestreamer.com:5270",
+                    "chdescription": "Calgary No. 1 radio-48kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Amrit Baani Radio",
+                    "chlink": "http://67.100.249.243:8000",
+                    "chdescription": "Gurbani Kirtan-24kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Chann Pardesi Gurbani Radio",
+                    "chlink": "http://ice.mehramedia.com:8763/gurbani",
+                    "chdescription": "Chicago's First Gurbani Radio-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Darbar Sahib Kirtan",
+                    "chlink": "http://123.63.122.242:8000",
+                    "chdescription": "Sri harmandir Sahib Golden Temple-16kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Dasmesh Darbar",
+                    "chlink": "http://s5.voscast.com:7316",
+                    "chdescription": "Live Gurdwara Programming-24kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Gurbani Radio",
+                    "chlink": "http://s8.voscast.com:7024",
+                    "chdescription": "24/7 Internet Gurbani Radio-48kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Gurudwara Dashmesh Culture",
+                    "chlink": "http://radio2.sikhnet.com:8030/stream",
+                    "chdescription": "Gurbani from Calgary-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Gurdwara Sahib West Sacramento",
+                    "chlink": "http://panel9.serverhostingcenter.com:2199/tunein/gidtonhn.pls",
+                    "chdescription": "Live Kirtan Gurdwara Sahib-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Gurudwara.Net",
+                    "chlink": "http://198.154.106.104:8520",
+                    "chdescription": "Gurbani Kirtan-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Khalsa FM",
+                    "chlink": "http://s3.voscast.com:7798",
+                    "chdescription": "Gurbani Katha Talk Shows Canada-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Shan E Wattan",
+                    "chlink": "http://108.166.161.210:8993",
+                    "chdescription": "Gurbani Radio from Canada-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 1",
+                    "chlink": "http://radio2.sikhnet.com:8010/stream",
+                    "chdescription": "All Gurbani Styles Kirtan-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 2",
+                    "chlink": "http://radio2.sikhnet.com:8012/autodj",
+                    "chdescription": "Western Non Traditional Gurbani-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 3",
+                    "chlink": "http://radio2.sikhnet.com:8014/stream",
+                    "chdescription": "Classical Raag Gurbani Kirtan-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 4",
+                    "chlink": "http://192.69.212.61:8016/stream",
+                    "chdescription": "Simran Kiran-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 5",
+                    "chlink": "http://radio2.sikhnet.com:8018/stream",
+                    "chdescription": "Siri Akhand Path Sahib-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 6",
+                    "chlink": "http://radio2.sikhnet.com:8501/stream",
+                    "chdescription": "Classic Gurbani Kirtan-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 8",
+                    "chlink": "http://radio2.sikhnet.com:8017/stream",
+                    "chdescription": "Spiritual Audio Stories for Kids-64kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 50",
+                    "chlink": "http://radio2.sikhnet.com:8020/stream",
+                    "chdescription": "Sri Harmandir Sahib from Amritsar-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 52",
+                    "chlink": "http://radio2.sikhnet.com:8022/stream",
+                    "chdescription": "Gurdwara Dukh Niwaran Sahib-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 53",
+                    "chlink": "http://radio2.sikhnet.com:8038/stream",
+                    "chdescription": "Takhat Hazur Sahib-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "SikhNet Radio Ch 56",
+                    "chlink": "http://radio2.sikhnet.com:8026/live",
+                    "chdescription": "Gurbani Kiran from Freemont-48kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Sikh Radio",
+                    "chlink": "http://gill.sukhpal.net:8005",
+                    "chdescription": "Gurbani Shabad Kirtan 24/7-32kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Simarjot Gurbani",
+                    "chlink": "http://94.23.44.152:8080",
+                    "chdescription": "Gurbani Songs-96kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Stockton Gurdwara Sahib",
+                    "chlink": "http://gurdwarasahib1.no-ip.org:8010/stockton",
+                    "chdescription": "Gurbani from California-48kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "XL Radio Gurbani",
+                    "chlink": "http://neon.wavestreamer.com:8459",
+                    "chdescription": "24/7 Gurbani Kirtan from Canada-128kbps",
+                    "category": "Punjabi"
+                },
+                {
+                    "title": "Sai Bhakti Radio",
+                    "chlink": "http://saibhaktiradio.serverhostingcenter.com:8475",
+                    "chdescription": "Hindi Shirdi Sai Music-64kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Bhakti Radio",
+                    "chlink": "http://67.212.165.106:8191",
+                    "chdescription": "24/7 Devotional Radio-64kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Sanskar Radio",
+                    "chlink": "http://93.186.167.29:8000/sanskar",
+                    "chdescription": "24/7 Hindi Radio-24kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Hindi Worship Radio",
+                    "chlink": "http://50.22.217.204:8103",
+                    "chdescription": "24/7 Worship Songs-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Hindi Radio City Devotional",
+                    "chlink": "http://prclive1.listenon.in:9930",
+                    "chdescription": "Devotional Songs-48kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Hindi Hungama Devotional",
+                    "chlink": "http://123.176.41.8:8232",
+                    "chdescription": "Best Aartis and Bhajans-64kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Quran Hindi",
+                    "chlink": "http://37.58.72.235:9982",
+                    "chdescription": "Hindi Quran-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Radio Sai Asia",
+                    "chlink": "http://stream.radiosai.net:8002",
+                    "chdescription": "Sai Bajans and Songs-24kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Radio Sai US",
+                    "chlink": "http://stream.radiosai.net:8006",
+                    "chdescription": "Sai Bajans and Songs-24kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Radio Sai Telugu",
+                    "chlink": "http://stream.radiosai.net:8020",
+                    "chdescription": "Sai Discourses-24kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Radio Sai Bhajan",
+                    "chlink": "http://stream.radiosai.net:8000",
+                    "chdescription": "Sai Bajans-24kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Radio Sai Discourse",
+                    "chlink": "http://stream.radiosai.net:8008",
+                    "chdescription": "Sai Discourses-24kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Radio Sai Africa",
+                    "chlink": "http://stream.radiosai.net:8004",
+                    "chdescription": "Sai Discourses-24kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Hare Krishna Radio",
+                    "chlink": "http://sc8.spacialnet.com:25870",
+                    "chdescription": "Los Angeles ISKCON-24kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Radio Krishna Network",
+                    "chlink": "http://81.25.96.8:8090",
+                    "chdescription": "Spiritual, Alternative-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Kirtan Aradhana",
+                    "chlink": "http://82.13.17.156:8000",
+                    "chdescription": "Bhajan Kirtan Radio-56kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Krishna Bhajan",
+                    "chlink": "http://50.22.223.16:8561",
+                    "chdescription": "Krishna Bhajan Kirtan-64kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Priyawaanie Devotional",
+                    "chlink": "http://ara.serverhostingcenter.com:8292",
+                    "chdescription": "Bajans and Songs-64kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Radio City Smaran",
+                    "chlink": "http://prclive3.listenon.in:9950",
+                    "chdescription": "Nonstop Devotional Music-48kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Waves of Power",
+                    "chlink": "http://s2.viastreaming.net:6335",
+                    "chdescription": "Tamil Christian Radio-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Amen FM Radio",
+                    "chlink": "http://ice7.securenetsystems.net/AMENFM",
+                    "chdescription": "Tamil Devotional Radio-128kbps",
+                    "chcat": "New",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Arulvakku Radio",
+                    "chlink": "http://192.240.102.3:8935",
+                    "chdescription": "Tamil Bible Radio-32kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Devaprasannam Radio",
+                    "chlink": "http://195.154.217.103:8704",
+                    "chdescription": "Tamil Christian Radio Germany-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Divyam FM",
+                    "chlink": "http://195.154.217.103:8265",
+                    "chdescription": "Tamil Christian Radio Canada-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Tamil Worship Radio",
+                    "chlink": "http://50.22.217.204:8111",
+                    "chdescription": "24/7 Worship Songs-128kbps",
+                    "category": "Devotional"
+                },                
+                {
+                    "title": "Umachi FM",
+                    "chlink": "http://96.umachifm.com",
+                    "chdescription": "Tamil Devotional Songs Speeches-96kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Voice of Jesus Radio",
+                    "chlink": "http://195.154.217.103:8341",
+                    "chdescription": "Tamil Jesus Broadcasts-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Christian Radio",
+                    "chlink": "http://67.159.60.45:8028",
+                    "chdescription": "Christian Radio UK-48kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Telugu Christian Radio",
+                    "chlink": "http://37.187.90.121:3682/stream",
+                    "chdescription": "Telugu Christian Radio-64kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Radio Suvartha",
+                    "chlink": "http://192.184.9.81:8490",
+                    "chdescription": "Telugu Christian Radio-32kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Telugu Worship Radio",
+                    "chlink": "http://50.22.217.204:8113",
+                    "chdescription": "24/7 Worship Songs-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Gelupu Telugu Radio",
+                    "chlink": "http://198.178.123.20:7586",
+                    "chdescription": "Telugu Christian Radio-64kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Quran Telugu",
+                    "chlink": "http://37.58.72.235:9954",
+                    "chdescription": "Quran Radio in Telugu-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Heavenly Radio",
+                    "chlink": "http://109.123.117.195:8034",
+                    "chdescription": "Malayalam Christian Radio-96kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Malayalam Worship Radio",
+                    "chlink": "http://50.22.217.204:8121",
+                    "chdescription": "24/7 Worship Songs-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "GFAN Radio",
+                    "chlink": "http://209.105.250.69:8220/stream",
+                    "chdescription": "Malayalam 128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "DevotionalNA-Radioverve Classical",
+                    "chlink": "http://mediaverve.com:10050/stream",
+                    "chdescription": "Classical-64kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "DevotionalNA-Sravanam Classical",
+                    "chlink": "http://184.107.159.100:8098",
+                    "chdescription": "Classical Carnatic-32kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Swami Ram Charran",
+                    "chlink": "http://208.81.238.36:8000",
+                    "chdescription": "Teachings of Swami Ram Charran-64kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Carnatic Radio",
+                    "chlink": "http://s4.viastreaming.net:7220",
+                    "chdescription": "Carnatic-48kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Nirvana Ambient Radio",
+                    "chlink": "http://radio.108.pl:8002",
+                    "chdescription": "Best Ambient Music-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Nirvana Meditation Radio",
+                    "chlink": "http://radio.108.pl:8004",
+                    "chdescription": "Best Meditation Music-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Nirvana Relaxation Radio",
+                    "chlink": "http://sc9106.xpx.pl:9106",
+                    "chdescription": "Best Meditation and Relaxation-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Oriya Worship Radio",
+                    "chlink": "http://50.22.217.204:8117",
+                    "chdescription": "24/7 Worship Songs-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Nepali Worship Radio",
+                    "chlink": "http://50.22.217.204:8129",
+                    "chdescription": "24/7 Worship Songs-128kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Bhagat Kanwarram",
+                    "chlink": "http://23.252.121.163:9996",
+                    "chdescription": "Sindhi and Hindi Bajans-96kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Apna eRadio Islamic",
+                    "chlink": "http://secure.enkaysolutions.net:8200",
+                    "chdescription": "Quran Recitation, Prayers-96kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "Sirius FM",
+                    "chlink": "http://s8.voscast.com:7112",
+                    "chdescription": "Islamic Radio-32kbps",
+                    "category": "Devotional"
+                },
+                {
+                    "title": "AMMA Radio",
+                    "chlink": "http://smoke.wavestreamer.com:8938/Live",
+                    "chdescription": "24/7 Malayalam Radio-128kbps",
+                    "chcat": "New",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Mazhavil FM",
+                    "chlink": "http://mazhavilfm.out.airtime.pro:8000/mazhavilfm_a",
+                    "chdescription": "24/7 Malayalam Radio-128kbps",
+                    "chcat": "New",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Kerala Radio",
+                    "chlink": "http://radio.hostonnet.com:8000",
+                    "chdescription": "Kerala Online Radio-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Ganam Radio",
+                    "chlink": "http://viadj.viastreaming.net:7104",
+                    "chdescription": "Malayalam Hits-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Gold 101.3 FM",
+                    "chlink": "http://5293.live.streamtheworld.com/GOLDFM",
+                    "chdescription": "UAE's Malayali Radio-64kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Tune India Radio",
+                    "chlink": "http://50.7.77.114:8826",
+                    "chdescription": "Malayalam Hindi Tamil Radio-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Radio Asia 1269 AM",
+                    "chlink": "http://192.240.97.69:8939",
+                    "chdescription": "First Malayalam Radio from UAE-96kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Radio Joyalukkas",
+                    "chlink": "http://50.7.96.210:8349",
+                    "chdescription": "24/7 Best Malayalam Radio-64kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Radio Malayalam",
+                    "chlink": "http://198.105.220.12:6221/Live",
+                    "chdescription": "Live from Australia-64kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Ragam Radio",
+                    "chlink": "http://109.169.59.107:8038",
+                    "chdescription": "Malayalam Radio-96kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Hit FM 96.7",
+                    "chlink": "http://4103.live.streamtheworld.com:80/HITAACCMP3",
+                    "chdescription": "Live Radio Dubai-64kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Super 94.7 Cool FM",
+                    "chlink": "http://192.240.97.69:8937",
+                    "chdescription": "UAE Malayalam Radio-96kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "City Malayalam Radio",
+                    "chlink": "http://64.150.176.9:8310",
+                    "chdescription": "Asian Radio-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Voice of Kerala 1152AM",
+                    "chlink": "http://fms-sl01.bluecast.ae:8000/vok/live.ogg",
+                    "chdescription": "Live from Gulf-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Colours India Malayalam",
+                    "chlink": "http://5.63.151.52:8015",
+                    "chdescription": "Malayalam Hits-64kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Radio Malabar",
+                    "chlink": "http://64.150.176.9:8273",
+                    "chdescription": "Malayalam Radio-64kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Al Islah Radio",
+                    "chlink": "http://94.76.216.200:8294",
+                    "chdescription": "Malayalam Islamic Radio-96kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Dharma Radio",
+                    "chlink": "http://s12.myradiostream.com:6004",
+                    "chdescription": "Malayalam Heritage Radio-48kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Heavenly Radio",
+                    "chlink": "http://109.169.59.107:8034",
+                    "chdescription": "Malayalam Devotional-96kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Hungama Malayalam Hits",
+                    "chlink": "http://123.176.41.8:8656",
+                    "chdescription": "Malayalam Hits-64kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Kerala Islamic Class Room Radio",
+                    "chlink": "http://50.7.70.66:8786/KICR-SKSSF-Live",
+                    "chdescription": "Malayalam Islamic Radio-24kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Luminous Radio",
+                    "chlink": "http://50.7.184.106:8546/stream",
+                    "chdescription": "Malayalam Christian Radio-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Nadam Radio",
+                    "chlink": "http://viadj.viastreaming.net:7070",
+                    "chdescription": "Malayalam Devotional-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Psalms Radio",
+                    "chlink": "http://5.63.145.172:7084",
+                    "chdescription": "Malayalam Christian Devotional-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Patturumal Radio",
+                    "chlink": "http://50.7.184.106:8684",
+                    "chdescription": "Malayalam Radio-64kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Quran Malayalam",
+                    "chlink": "http://37.58.72.235:9968",
+                    "chdescription": "Malayalam Quran-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Radio Holy Family",
+                    "chlink": "http://50.7.77.114:8269",
+                    "chdescription": "Malayalam Christian Devotional-128kbps",
+                    "category": "Malayalam"
+                },
+                {
+                    "title": "Radio City Kannada",
+                    "chlink": "http://208.115.222.203:8870",
+                    "chdescription": "Kannada Online Radio-64kbps",
+                    "category": "Kannada"
+                },
+                {
+                    "title": "Radio Girmit",
+                    "chlink": "http://149.255.33.76:8070",
+                    "chdescription": "Kannada Music Industry-64kbps",
+                    "category": "Kannada"
+                },
+                {
+                    "title": "Hungama Kannada",
+                    "chlink": "http://123.176.41.8:8256",
+                    "chdescription": "Kannada Radio-64kbps",
+                    "category": "Kannada"
+                },
+                {
+                    "title": "Quran Kannada",
+                    "chlink": "http://37.58.72.235:9976",
+                    "chdescription": "Quran in Kannada-128kbps",
+                    "category": "Kannada"
+                },
+                {
+                    "title": "Vijaya Vittala Radio",
+                    "chlink": "http://173.193.205.96:8000",
+                    "chdescription": "Swamiji's Amrothopadeshas-56kbps",
+                    "chcat": "New",
+                    "category": "Kannada"
+                },
+                {
+                    "title": "Tharanga Telugu Live",
+                    "chlink": "http://tharangamedia.net:7001",
+                    "chdescription": "Telugu Live Stream-64kbps",
+                    "chcat": "Hot",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Hungama Telugu Hits",
+                    "chlink": "http://123.176.41.8:8356",
+                    "chdescription": "Non Stop Telugu Hits-64kbps",
+                    "chcat": "Hot",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Manasu Tho",
+                    "chlink": "http://96.30.32.42:8018",
+                    "chdescription": "Non Stop Melody Songs-128kbps",
+                    "chcat": "Hot",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Virijallu Desi 1170 AM",
+                    "chlink": "http://2353.live.streamtheworld.com/KLOKAM",
+                    "chdescription": "Largest Indian Radio in USA-40kbps",
+                    "chcat": "Hot",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Tori Live Radio",
+                    "chlink": "http://38.101.195.5:9196",
+                    "chdescription": "Teluguone Live Radio-96kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Tori ARRehman Era",
+                    "chlink": "http://38.101.195.5:8796",
+                    "chdescription": "Teluguone AR Rehman Hits-96kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Tori Gantasala Era ",
+                    "chlink": "http://38.101.195.5:8596",
+                    "chdescription": "Teluguone Old Songs-96kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Tori Ilayaraja SP Balu Era",
+                    "chlink": "http://38.101.195.5:8696",
+                    "chdescription": "Illayaraja SPB Hits-96kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Tori All Time Hits FM",
+                    "chlink": "http://38.101.195.5:8996",
+                    "chdescription": "Teluguone Hit Songs-96kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Radio Kushi Australia",
+                    "chlink": "http://knight.wavestreamer.com:9904",
+                    "chdescription": "Australia Telugu Radio-128kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Radio Kushi India",
+                    "chlink": "http://fire.wavestreamer.com:5206",
+                    "chdescription": "India Telugu Radio-128kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Radio Kushi UK",
+                    "chlink": "http://knight.wavestreamer.com:3321",
+                    "chdescription": "UK Telugu Radio-128kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Radio Kushi USA EST",
+                    "chlink": "http://majestic.wavestreamer.com:9321",
+                    "chdescription": "USA East Coast 128kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Radio Kushi USA CST",
+                    "chlink": "http://stereo.wavestreamer.com:6697",
+                    "chdescription": "USA Central Telugu-128kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Radio Kushi USA PST",
+                    "chlink": "http://majestic.wavestreamer.com:2167",
+                    "chdescription": "USA Pacific Telugu-128kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Radio 9 Telugu",
+                    "chlink": "http://174.37.252.208:8530",
+                    "chdescription": "UAE Telugu Radio-64kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Telugu Kokila Radio",
+                    "chlink": "http://live.telugukokilaradio.com:8097",
+                    "chdescription": "Telugu Music Radio-32kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "TeluguVani Radio",
+                    "chlink": "http://s7.voscast.com:7184",
+                    "chdescription": "Live from Euorpe-64kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Ghazal Srinivas Radio",
+                    "chlink": "http://s3.voscast.com:8226",
+                    "chdescription": "Telugu Ghazal Radio-64kbps",
+                    "category": "Telugu"
+                },
+                {
+                    "title": "Telangana TG Radio",
+                    "chlink": "http://46.28.49.164:7804",
+                    "chdescription": "First Telangana Radio-128kbps",
+                    "category": "Telugu"
+                },                
+                {
+                    "title": "Kalasam Radio",
+                    "chlink": "http://live.kalasam.com:8084",
+                    "chdescription": "Live from Toronto, ON-128kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "LankaSri FM",
+                    "chlink": "http://173.192.198.245:8080",
+                    "chdescription": "Latest Songs-128kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Puradsi FM",
+                    "chlink": "http://puradsifm.net:9994",
+                    "chdescription": "24/7 3D Tamil Music Station-96kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "TRT Tamil Oli",
+                    "chlink": "http://94.23.36.180:5006",
+                    "chdescription": "First Tamil Radio from France-320kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Thaalam FM",
+                    "chlink": "http://s7.streammonster.com:8313",
+                    "chdescription": "24/7 Non Stop Tamil Radio-128kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "GTBC FM",
+                    "chlink": "http://38.96.148.18:6150",
+                    "chdescription": "London UK-128kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Tamilaruvi FM",
+                    "chlink": "http://37.221.210.77:7100/LIVE.mp3.m3u",
+                    "chdescription": "24/7 Tamil Radio-40kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Tamil Flash FM",
+                    "chlink": "http://62.113.203.93:8300",
+                    "chdescription": "Largest Tamil Radio-96kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Tamil MelISai",
+                    "chlink": "http://87.117.202.97:8092",
+                    "chdescription": "24/7 Best Tamil FM-64kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "TamilSun FM",
+                    "chlink": "http://192.99.4.210:3596",
+                    "chdescription": "24/7 Tamil entertainment-48kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Sangeetha Anukkal",
+                    "chlink": "http://listen.radionomy.com/sangeethaanukkal.m3u",
+                    "chdescription": "24/7 Tamil Non Stop Hits-128kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "3 Line Radio",
+                    "chlink": "http://204.45.29.98:8972",
+                    "chdescription": "Tamil Non Stop Hits-192kbps",
+                    "chcat": "Hot",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "A9 Radio",
+                    "chlink": "http://195.154.217.103:8175",
+                    "chdescription": "Online Tamil Radio-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "ABC Tamil Radio",
+                    "chlink": "http://198.154.106.101:8118",
+                    "chdescription": "Tamil Online Radio-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Air Tamil Radio",
+                    "chlink": "http://s1.voscast.com:8044",
+                    "chdescription": "All New Hits-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "AR Rehman Radio",
+                    "chlink": "http://streaming.radionomy.com/Tlr-radio",
+                    "chdescription": "Tamil AR Rehman Songs-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "AR Rehman Radio Lite",
+                    "chlink": "http://streaming207.radionomy.com/1234554321",
+                    "chdescription": "Tamil AR Rehman Songs-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Analai FM Radio",
+                    "chlink": "http://184.149.19.76:8000/stream/262524/",
+                    "chdescription": "Tamil Radio from Canada-96kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "BBC Tamil",
+                    "chlink": "http://wsdownload.bbc.co.uk/tamil/css/32mp3/latest/tamilosai.mp3",
+                    "chdescription": "BBC Tamil Radio-32kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "CTBC Radio",
+                    "chlink": "http://server.tamil.fm:8000/ctbc",
+                    "chdescription": "Canadian Tamil Broadcasting-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "TamilNA-Chennai FM Rainbow",
+                    "chlink": "http://euroshoutcast.com:8000",
+                    "chdescription": "101.4 FM from Chennai-40kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "TamilNA-Deepam Radio",
+                    "chlink": " http://87.117.193.47:8040",
+                    "chdescription": "Live from UK-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "DJSiran Tamil FM",
+                    "chlink": "http://listen.radionomy.com/djsiran-fm",
+                    "chdescription": "Sri Lanka No.1 Tamil Radio-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "EBC Tamil Live",
+                    "chlink": "http://78.129.196.73",
+                    "chdescription": "UK Tamil Radio-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Foxx FM",
+                    "chlink": "http://67.228.177.123:9000",
+                    "chdescription": "Latest Songs-56kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Geetham FM",
+                    "chlink": "http://www.geethamradio.com:8020/lofi.mp3",
+                    "chdescription": "New Delhi, India-24kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Geetham 80s FM",
+                    "chlink": "http://www.geethamradio.com:8020/80s_hifi.mp3",
+                    "chdescription": "80s Tamil Songs-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Geethavaani FM",
+                    "chlink": "http://50.7.70.66:8657",
+                    "chdescription": "Live from Toronto-32kbps",
+                    "chcat": "New",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Global Tamil Radio",
+                    "chlink": "http://174.36.206.197:8076",
+                    "chdescription": "Live From Toronto,ON-42kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Isaiyaruvi FM",
+                    "chlink": "http://isaiyaruvifm.com:8910",
+                    "chdescription": "Tamil Hit Music-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "IBC Tamil Radio",
+                    "chlink": "http://38.96.148.226:6176",
+                    "chdescription": "Europe Top Radio-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Idhayam FM",
+                    "chlink": "http://s8.voscast.com:9284",
+                    "chdescription": "Tamil FM Radio-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Ilayaraja Radio",
+                    "chlink": "http://listen.radionomy.com/ilayaraja-radio",
+                    "chdescription": "Tamil Ilayaraja Songs-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "ILC Tamil",
+                    "chlink": "http://s6.voscast.com:8484",
+                    "chdescription": "Live from UK-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "ITamil Radio",
+                    "chlink": "http://cast.liveonlineradio.net:3300/ITAMILRADIO-DENMARK",
+                    "chdescription": "Tamil Radio from Denmark-128kbps",
+                    "chcat": "New",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "ITR Tamil",
+                    "chlink": "http://server.tamil.fm:8000/live",
+                    "chdescription": "Live from Montreal and Paris-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "JilJil Radio",
+                    "chlink": "http://live64.jiljilradio.com",
+                    "chdescription": "Online Tamil Radio-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Jei FM",
+                    "chlink": "http://192.99.4.210:8808/stream",
+                    "chdescription": "24/7 Online Radio-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Likexa FM",
+                    "chlink": "http://50.7.77.114:8176",
+                    "chdescription": "Chennai Radio-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Minnal FM",
+                    "chlink": "http://turbo.stream.my/live/mp4:rtm-ch015/playlist.m3u8",
+                    "chdescription": "Malaysia Tamil Radio-48kbps",
+                    "chcat": "New",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Puthu Paadal",
+                    "chlink": "http://listen.radionomy.com/puthu-paadal-radio",
+                    "chdescription": "Tamil All time Newhits-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Retham FM",
+                    "chlink": "http://173.192.224.123:8514",
+                    "chdescription": "Live From UK-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Rhythm FM",
+                    "chlink": "http://us13.chociz.ru:8004/rhythm",
+                    "chdescription": "FM 100.7, Colombo-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Shaivam Radio",
+                    "chlink": "http://50.22.212.203:8007",
+                    "chdescription": "Tamil Devotional-96kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Shakthi FM",
+                    "chlink": "http://76.164.217.100:7012",
+                    "chdescription": "Music Station from Sri Lanka-84kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "TamilNA-Sollisai FM",
+                    "chlink": "http://64.237.33.50:7053",
+                    "chdescription": "Live from Paris-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Tamil 2 FM",
+                    "chlink": "http://s8.voscast.com:7674",
+                    "chdescription": "Tamil HD Radio Station-48kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Tamil European Radio",
+                    "chlink": "http://198.154.106.102:8646/stream?1377500830511.mp3",
+                    "chdescription": "Euro FM-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Tamil Hits",
+                    "chlink": "http://listen.radionomy.com/tamburatamil",
+                    "chdescription": "Tamil Latest Hits-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Tamil Kuyil Radio",
+                    "chlink": "http://live.tamilkuyilradio.com:8095",
+                    "chdescription": "Tamil Film songs-96kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Tamil Star Radio",
+                    "chlink": "http://media2.tamilstar.fm:8947",
+                    "chdescription": "Live from Toronto-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Tamilthai TTR Live",
+                    "chlink": "http://www.ttrlive.com:8010",
+                    "chdescription": "24/7 Live Canada Radio-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Thamizhamutham Radio",
+                    "chlink": "http://s6.voscast.com:7188",
+                    "chdescription": "Thamizhamutham Radio-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Thenral World Radio",
+                    "chlink": "http://sc2.ddns.net:9116/stream",
+                    "chdescription": "Tamil Radio from Germany-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "THHR Hip Hop Radio",
+                    "chlink": "http://108.166.161.206:8602",
+                    "chdescription": "Live from Paris-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Thuthi FM",
+                    "chlink": "http://87.117.228.59:8632",
+                    "chdescription": "Christian Radio,Norway-64kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "UthayanJaffna Radio",
+                    "chlink": "http://s7.voscast.com:8024",
+                    "chdescription": "Web Radio from Jaffna-48kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Vanavilfm Radio",
+                    "chlink": "http://178.250.55.110:8000",
+                    "chdescription": "Tamil FM-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "Yuvan Shankar Raja Radio",
+                    "chlink": "http://listen.radionomy.com/yuvan-shankar-raja-radio",
+                    "chdescription": "Tamil Yuvan Shankar Raja Songs-128kbps",
+                    "category": "Tamil"
+                },
+                {
+                    "title": "54 House FM",
+                    "chlink": "http://54house.stream-balancer.de:80",
+                    "chdescription": "House Electronic Music-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "181.FM Energy",
+                    "chlink": "http://108.61.73.118:8800",
+                    "chdescription": "Rock Music-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Absolute Top 40 Hits",
+                    "chlink": "http://205.164.62.15:7016",
+                    "chdescription": "English Top 40 Hits-64kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Blackbeats FM",
+                    "chlink": "http://blackbeats.fm/listen.m3u",
+                    "chdescription": "Hip Hop Music-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Broadband Comedy Network",
+                    "chlink": "http://shoutcast.bcnonline.com:8181",
+                    "chdescription": "English Comedy Channel-96kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Coast 103.2FM",
+                    "chlink": "http://4083.live.streamtheworld.com/COAST_FM",
+                    "chdescription": "UAE's English Hits 2-64kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "COOLfahrenheit 93",
+                    "chlink": "http://203.150.225.71:8000",
+                    "chdescription": "Easy Listening-48kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Crucial Velocity Radio",
+                    "chlink": "http://listen.radionomy.com/crucialvelocityradio.m3u",
+                    "chdescription": "Hard Rock and Heavy Metal-128kbps",
+                    "chcat": "New",
+                    "category": "English"
+                },
+                {
+                    "title": "Comedy 104",
+                    "chlink": "http://173.193.14.162:8018",
+                    "chdescription": "English Comedy Channel-64kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Crystal Radio",
+                    "chlink": "http://50.22.217.204:8000",
+                    "chdescription": "Easy Listening-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Defjay Radio",
+                    "chlink": "http://tunein.defjay.com:80",
+                    "chdescription": "Pop Music-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "French Kiss FM",
+                    "chlink": "http://stream.frenchkissfm.com:80/Title1",
+                    "chdescription": "Electronic House Techno Dance-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Frisky Radio",
+                    "chlink": "http://www.friskyradio.com/m3u/frisky.m3u",
+                    "chdescription": "Frisky EDM DJ Mixes-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Idobi Radio",
+                    "chlink": "http://69.46.88.20:80",
+                    "chdescription": "Alternative Music-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Noise FM",
+                    "chlink": "http://noisefm.ru:8000/play",
+                    "chdescription": "24/7 Rock Music-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Radio Paradise",
+                    "chlink": "http://stream-tx3.radioparadise.com/mp3-128",
+                    "chdescription": "Electric Rock Music-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "Chillout Lounge Radio",
+                    "chlink": "http://205.164.36.5:80",
+                    "chdescription": "Easy Listening Electronic Downtempo-128kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "TechnoBase FM",
+                    "chlink": "http://listen.technobase.fm/tunein-mp3-pls",
+                    "chdescription": "24h Techno, Dance, HandsUp-192kbps",
+                    "category": "English"
+                },
+                {
+                    "title": "ABC Radio FM 89.2",
+                    "chlink": "http://184.107.144.218:8282",
+                    "chdescription": "ABC Radio FM 89.2 Live-48kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "Aktara",
+                    "chlink": "http://50.7.98.106:8520",
+                    "chdescription": "Bangla Radio-32kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "Betar Bangla Radio",
+                    "chlink": "http://live.canstream.co.uk:8000/betarbangla.mp3",
+                    "chdescription": "Bangla Radio-64kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "Goonjon Radio",
+                    "chlink": "http://198.27.80.37:5320",
+                    "chdescription": "Heart of Bangladesh-48kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "My Bangla Gaan",
+                    "chlink": "http://69.175.103.230:8000",
+                    "chdescription": "Bangla Songs-64kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "My Bangla Radio",
+                    "chlink": "http://mybanglaradio.4pu.com:2012/stream",
+                    "chdescription": "Live Bangla Radio-48kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "NHK Bangla KumkuM",
+                    "chlink": "http://www3.nhk.or.jp/rj/podcast/mp3/bengali.mp3",
+                    "chdescription": "Bangla World Radio-64kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "Radio2fun Radio",
+                    "chlink": "http://107.178.110.114:7600",
+                    "chdescription": "First Bangla Internet Radio-48kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "Radio Dhaka",
+                    "chlink": "http://118.179.219.243:8000",
+                    "chdescription": "First Internet Bangladesh Radio-64kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "Radio Swadesh",
+                    "chlink": "http://radioswadesh.net:7009",
+                    "chdescription": "Bangla Non Stop Music-32kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "Washington Bangla Classic",
+                    "chlink": "http://banglaradio.homeip.net:8000",
+                    "chdescription": "Bangla Classic Radio-32kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "Washington Bangla Special Broadcasts",
+                    "chlink": "http://banglaradio.homeip.net:8000/Title1=WBRi-1Version=2",
+                    "chdescription": "Bengali Broadcasts from USA-48kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "Bengali Worship Radio",
+                    "chlink": "http://50.22.217.204:8119",
+                    "chdescription": "24/7 Worship Songs-128kbps",
+                    "category": "Bengali"
+                },
+                {
+                    "title": "SpacialNet: Marathi Radio",
+                    "chlink": "http://sc3.spacialnet.com:16704",
+                    "chdescription": "Marathi Radio-24kbps",
+                    "category": "Marathi"
+                },
+                {
+                    "title": "Marathi Radio",
+                    "chlink": "http://208.80.53.106:16704",
+                    "chdescription": "Marathi Radio-24kbps",
+                    "category": "Marathi"
+                },
+                {
+                    "title": "Rangilo Gujarat",
+                    "chlink": "http://s9.voscast.com:7402",
+                    "chdescription": "Drama Programs Bhazans-48kbps",
+                    "category": "Gujarati"
+                },
+                {
+                    "title": "Al Rabia 107.8 FM",
+                    "chlink": "http://4103.live.streamtheworld.com/AL_RABEAFM",
+                    "chdescription": "UAE's NonStop Arabic Music-64kbps",
+                    "category": "Urdu"
+                },
+                {
+                    "title": "Apna Radio",
+                    "chlink": "http://198.100.148.141:9999",
+                    "chdescription": "Hindi, Urdu, Pakistani-64kbps",
+                    "category": "Urdu"
+                },
+                {
+                    "title": "Awaz e Haq World Radio",
+                    "chlink": "http://159.253.145.177:8520",
+                    "chdescription": "Urdu Hindi Radio-64kbps",
+                    "category": "Urdu"
+                },
+                {
+                    "title": "Quran in Urdu",
+                    "chlink": "http://198.178.123.17:8332",
+                    "chdescription": "Quran Radio Channel-54kbps",
+                    "category": "Urdu"
+                },
+                {
+                    "title": "Radio Azad",
+                    "chlink": "http://amjad.primcast.com:7042",
+                    "chdescription": "Voice of the People-56kbps",
+                    "category": "Urdu"
+                },
+                {
+                    "title": "Radio SurSangeet",
+                    "chlink": "http://199.19.214.131:8300",
+                    "chdescription": "Urdu Radio from Toronto-128kbps",
+                    "category": "Urdu"
+                },
+                {
+                    "title": "Urdu Islamic Lectures",
+                    "chlink": "http://109.169.26.216:8008",
+                    "chdescription": "24/7 Urdu Radio-96kbps",
+                    "category": "Urdu"
+                },
+                {
+                    "title": "Alex Jones News",
+                    "chlink": "http://www.infowars.com/stream.pls",
+                    "chdescription": "Talk News Political-32kbps",
+                    "category": "News"
+                },
+                {
+                    "title": "BBC 5 Live",
+                    "chlink": "http://www.bbc.co.uk/radio/listen/live/r5l_aaclca.pls",
+                    "chdescription": "Live News Talk Radio-32kbps",
+                    "category": "News"
+                },
+                {
+                    "title": "Golf News",
+                    "chlink": "http://thegolfnewsnet.com:8000",
+                    "chcat": "New",
+                    "chdescription": "Golf News-32kbps",
+                    "category": "News"
+                },
+                {
+                    "title": "WKSU News",
+                    "chlink": "http://66.225.205.8:8020",
+                    "chcat": "New",
+                    "chdescription": "World News Channel-128kbps",
+                    "category": "News"
+                },
+                {
+                    "title": "Cricket Radio",
+                    "chlink": "http://221.120.236.50:8050",
+                    "chdescription": "Cricket News-24kbps",
+                    "category": "Sports"
+                },
+                {
+                    "title": "Radio Sport",
+                    "chlink": "http://radionetworknz-ice.streamguys.com/sportextra.mp3.m3u",
+                    "chdescription": "Just Sport from New Zealand-64kbps",
+                    "category": "Sports"
+                },
+                {
+                    "title": "BBC 5 Live Sports Extra",
+                    "chlink": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_5sportxtra_p?s",
+                    "chdescription": "Live Sports Radio-32kbps",
+                    "category": "Sports"
+                },
+                {
+                    "title": "Sports Radio 810 WHB",
+                    "chlink": "http://7289.live.streamtheworld.com/WHBAMAAC",
+                    "chdescription": "America's largest Sports station-44kbps",
+                    "category": "Sports"
+                },
+                {
+                    "title": "Hello Nepal",
+                    "chlink": "http://74.50.122.103:8440",
+                    "chdescription": "Nepal Online Radio-24kbps",
+                    "category": "Sports"
+                },
+                {
+                    "title": "Prabasi Online Radio",
+                    "chlink": "http://192.184.9.81:8474",
+                    "chdescription": "Nepal Online Radio-64kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "Nepali Sanchar",
+                    "chlink": "http://192.190.84.25:9986",
+                    "chdescription": "News Portal from Australia-64kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "Nepali Everest Radio",
+                    "chlink": "http://198.178.123.8:7420",
+                    "chdescription": "24/7 Live Nepali Music-24kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "Radio Lekhnath",
+                    "chlink": "http://192.99.0.170:6392",
+                    "chdescription": "Nepali Online Radio-32kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "RVL Nepali",
+                    "chlink": "http://96.31.92.46:8061",
+                    "chdescription": "Revolution Radio from Kathmandu-48kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "Chahalpahal Nepali Radio",
+                    "chlink": "http://198.178.123.17:8340",
+                    "chdescription": "Nepali Radio-24kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "Kanchanjungha 92.6 FM",
+                    "chlink": "http://shoutcast.itechnepal.net/tunein.php/kanchanjunghafm/playlist.pls",
+                    "chdescription": "Nepali Radio from Jhapa-40kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "Nepali Collections",
+                    "chlink": "http://stream.nepalicollections.com",
+                    "chdescription": "Window to Nepali World-128kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "Odia Radio",
+                    "chlink": "http://onair.odiaradio.com:8080/listen",
+                    "chdescription": "Odisha First Internet Radio-48kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "Pakistani Dil ki Awaz",
+                    "chlink": "http://192.184.9.79:8270",
+                    "chdescription": "Rock,Talk,Fun,Bollywood songs-24kbps",
+                    "category": "Others"
+                },
+                {
+                    "title": "Pakistani Radio Awaz 105",
+                    "chlink": "http://91.121.242.140:9906",
+                    "chdescription": "Live from Bahawalpur-64kbps",
+                    "category": "Others"
+                }
+            ]
+        }
+    }
+}

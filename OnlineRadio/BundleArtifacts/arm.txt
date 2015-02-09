@@ -1,0 +1,4 @@
+MainPackage=D:\VENKAT\Projects\OnlineRadio\OnlineRadio\bin\ARM\Release\OnlineRadio_1.0.0.1_Bundle\OnlineRadio_1.0.0.1_ARM.appx
+SymbolPackage=D:\VENKAT\Projects\OnlineRadio\OnlineRadio\AppPackages\OnlineRadio_1.0.0.1_Test\OnlineRadio_1.0.0.1_ARM.appxsym
+ResourcePack=D:\VENKAT\Projects\OnlineRadio\OnlineRadio\bin\ARM\Release\OnlineRadio_1.0.0.1_Bundle\OnlineRadio_1.0.0.1_scale-140.appx
+ResourcePack=D:\VENKAT\Projects\OnlineRadio\OnlineRadio\bin\ARM\Release\OnlineRadio_1.0.0.1_Bundle\OnlineRadio_1.0.0.1_scale-180.appx
